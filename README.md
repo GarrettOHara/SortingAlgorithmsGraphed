@@ -1,2 +1,2 @@
 # SortingAlgorithmsGraphed
-This Repo contains ppular sorting algorithms and their complexity graphed to express their efficiency
+This repository contains popular sorting algorithms and their respective complexity graphed to express their efficiency
